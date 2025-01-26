@@ -1,8 +1,4 @@
-# Model Quantization Technical Report  
-**Version 2.0**  
-**Last Updated: October 2023**  
-**Authors**: ML Optimization Team  
-
+# Model Quantization Technical Report 
 ---
 
 ## Table of Contents
